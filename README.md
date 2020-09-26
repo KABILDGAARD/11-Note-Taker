@@ -46,6 +46,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 Project links:
 
-[The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.](https://kabildgaard.github.io/Work-Day-Planner/)
+[The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.](https://week11note-taker.herokuapp.com/)
 
 [The URL of the GitHub repository](https://github.com/KABILDGAARD/11-Note-Taker)
