@@ -43,3 +43,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 Business Context
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
+
+Project links:
+
+[The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.](https://kabildgaard.github.io/Work-Day-Planner/)
+
+[The URL of the GitHub repository](https://github.com/KABILDGAARD/11-Note-Taker)
