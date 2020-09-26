@@ -11,4 +11,7 @@ app.use(express.json());
 require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
-app.listen(PORT, () => console.log("Server is running on " + PORT));
+const server = app.listen(process.env.PORT || 8000, function () {
+    const port = server.address().port;
+    console.log("Express is working on port " + port);
+  });
